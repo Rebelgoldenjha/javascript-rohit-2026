@@ -9,6 +9,8 @@ console.log("rohit")
 let = name ="Rohit"
 let age ="20"
 
+console.log(age)
+
 
 // number  => 2 to power 53
 // bigint 
