@@ -28,5 +28,4 @@ console.log(newStringOne.trim()) // trim and print main value
  const url ="https://rohit.com/rohit%8jha"
 
  console.log(url.replace('%8' ,'-'))
-
  console.log(gameName.splict('-'))
